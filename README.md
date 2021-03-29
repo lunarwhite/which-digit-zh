@@ -1,4 +1,4 @@
-# Chinese-Handwritten-Numbers-Recognization
+# Chinese-handwritten-numbers-recognization
 
 ## 背景介绍
 
