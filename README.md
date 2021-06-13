@@ -3,7 +3,6 @@
 ## 背景介绍
 
 - Chinese numbers handwritten characters images
-- SDU machine-learning S2 2020 - project assignment b
 
 ## 项目地址
 
